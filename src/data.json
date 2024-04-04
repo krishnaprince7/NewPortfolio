@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name":"Netflix Website",
+        "image":"/images/Netflix.png",
+        "live":"https://krishnanetxwebappp.netlify.app/"
+        
+      },
+    {
+        "id": 1,
+        "name":"Bike Website",
+        "image":"/images/Bike.png",
+        "live":"https://krishnabikewebapp.netlify.app"
+        
+      },
+    {
+        "id": 1,
+        "name":"Travel Website",
+        "image":"/images/Travel.png",
+        "live":"https://krishnatravelwebsite.netlify.app"
+        
+      },
+    {
+        "id": 1,
+        "name":"Data Website",
+        "image":"/images/project3.png",
+        "live":"https://krishnadatawebsite.netlify.app"
+        
+      },
+    {
+        "id": 1,
+        "name":"Car Wbsite",
+        "image":"/images/Car.png",
+        "live":"https://krishnacarwebsite.netlify.app"
+        
+      },
+    {
+        "id": 1,
+        "name":"Jump Game",
+        "image":"/images/project7.png",
+        "live":"https://krishnagame.netlify.app"
+        
+      }
+  
+
+]
+
