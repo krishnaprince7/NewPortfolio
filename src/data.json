@@ -1,70 +1,23 @@
 [
-<<<<<<< HEAD
-    {
-        "id": 1,
-        "name":"Netflix Website",
-        "image":"/images/Netflix.png",
-        "live":"https://netflixwebsite-theta.vercel.app/"
-        
-      },
-    {
-        "id": 1,
-        "name":"Bike Website",
-        "image":"/images/Bike.png",
-        "live":"https://krishnabikewebapp.netlify.app"
-        
-      },
-    {
-        "id": 1,
-        "name":"Travel Website",
-        "image":"/images/Travel.png",
-        "live":"https://krishnatravelwebsite.netlify.app"
-        
-      },
-    {
-        "id": 1,
-        "name":"Data Website",
-        "image":"/images/project3.png",
-        "live":"https://krishnadatawebsite.netlify.app"
-        
-      },
-    {
-        "id": 1,
-        "name":"Car Wbsite",
-        "image":"/images/Car.png",
-        "live":"https://krishnacarwebsite.netlify.app"
-        
-      },
-    {
-        "id": 1,
-        "name":"Jump Game",
-        "image":"/images/project7.png",
-        "live":"https://krishnagame.netlify.app"
-        
-      }
-  
-
-=======
   {
     "id": 1,
     "name": "Student Result Management System",
     "image": "/images/Result.png",
     "live": "https://resultmangment.onrender.com/",
-    "viewDetail": "A comprehensive role-based student result management platform designed with separate dashboards tailored for admins, teachers, and students. Features include secure login authentication, full CRUD operations to manage student records, and real-time result updates. The backend APIs are developed using Express.js with MongoDB serving as the database for efficient data storage and retrieval. The frontend is built with ReactJS and styled using Tailwind CSS to ensure a responsive and user-friendly interface across all devices. This system streamlines the management of academic results and enhances communication between all user roles."
+    "viewDetail": "A comprehensive role-based student result management platform with dashboards for admins, teachers, and students. Secure authentication, CRUD for student records, and real-time result updates. Backend APIs built with Express.js and data stored in MongoDB. Frontend with ReactJS and Tailwind CSS for responsive UI."
   },
   {
     "id": 2,
     "name": "Boat Management System",
     "image": "/images/Boat.png",
     "live": "https://boat.uprahat.com/",
-    "viewDetail": "A robust full-stack boat management system that incorporates real-time GPS tracking of boats on an interactive map. The system features QR-code based life jacket distribution integrated with user registration and inspection management capabilities. It employs role-based access control supporting admin, inspectors, and boat operators with secure authentication. Pilot registration, regular inspections, and geolocation-based monitoring are implemented to ensure safety and compliance. The user interface is crafted with ReactJS and Tailwind CSS for an intuitive, mobile-friendly experience. This system facilitates efficient fleet management and enhances safety protocols."
+    "viewDetail": "Full-stack boat management with real-time GPS tracking and QR-based life jacket distribution. Role-based access (admin, inspectors, boat operators), pilot registration, inspections, and geolocation monitoring. Responsive UI using ReactJS and Tailwind CSS."
   },
   {
     "id": 3,
     "name": "Payment Pay",
     "image": "/images/payment.png",
     "live": "https://quickpay-awro.onrender.com/",
-    "viewDetail": "A feature-rich MERN stack payment solution designed to track and manage user transactions seamlessly. Key features include displaying detailed transaction history with filtering options and integration of REST APIs for secure payment processing. User profiles and transaction data are stored and managed in a MongoDB database ensuring data integrity and security. The application leverages ReactJS and Tailwind CSS to deliver a sleek, responsive, and modern user interface suitable for desktop and mobile devices. Designed to simplify payment operations, enhance user experience, and provide transparent financial tracking."
+    "viewDetail": "MERN payment app featuring transaction history, REST APIs, and MongoDB for user profiles and transactions. Built with ReactJS and Tailwind CSS for a modern, responsive interface."
   }
->>>>>>> 673e43f (Initial commit or your commit message)
 ]
